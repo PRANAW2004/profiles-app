@@ -25,8 +25,12 @@ npm run build
 - Push to `main`; the CI workflow will build and deploy automatically.
 - Settings → Pages → Source: **GitHub Actions**
 
-**Live URL:** https://<username>.github.io/profiles-app/
+**Live URL:** https://pranaw2004.github.io/profiles-app/
 
 ## Notes
 - Uses React + React-Bootstrap.
 - We use components, props, and `.map()`.
+
+Commit 1(Vite + React + React-BootStrap): https://github.com/PRANAW2004/profiles-app/commit/31f9a62bb28e0953cd73331ce06ae48796bd5917, https://github.com/PRANAW2004/profiles-app.git
+
+Commit 3(Components, Props, and .map()): https://github.com/PRANAW2004/profiles-app/commit/8521c07c4978f17b9fe69ef3bb6c6f4829296340
